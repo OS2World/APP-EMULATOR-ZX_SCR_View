@@ -1,0 +1,23 @@
+This is the OS/2 port of ZX SCR View 0.2.
+
+This program is a ZX Spectrum Screen viewer. It can read a .SCR file
+(ZX Spectrum SCREEN$ snapshot, a 256x192 bitmap file which follows the
+ZX Spectrum 'display file' specifications).
+
+It is my first port of an SDL application, and apparently it works! I
+include the original sources for completeness, but you only need the .exe
+file if you just want to work with it.
+
+I ported this program using GCC 4.5.2 by Paul Smedley. If you think that
+is a good thing to have new OS/2 programs, please consider donating him
+via Mensys, for it's thanks to his hard work if we (the OS/2 community)
+can have modern applications and development libraries.
+
+Also, please consider giving developers feedback, to make them know about
+problems and success stories with their work.
+
+Have fun!
+
+Mentore Siesto
+Pisa, Italy
+mentore.siesto@alice.it
